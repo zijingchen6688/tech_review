@@ -5,4 +5,4 @@ Please enter your topics here by Week 8 (Oct 18): https://docs.google.com/spread
 
 Some sample topics have been provided here: https://docs.google.com/spreadsheets/d/1yeKm8hJbyRGhiUDvZv9-S3Zzu5hDtET-O6Yeci-VPOs/edit?usp=sharing. You are free to use them or come up with your own topics!
 
-## Due: Nov 8, 2020 at 11:59 pm
+## Due: Nov 8, 2020 at 11:59 pm CST
